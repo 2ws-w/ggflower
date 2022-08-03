@@ -1,0 +1,1 @@
+import{F as e}from"./FlowerList.f98e829c.js";import{d as o,b as t,c as s,e as r}from"./index.8ce81a0f.js";import"./apis.5236f167.js";const c={class:"loveflower"},l=o({setup(a){return(n,i)=>(t(),s("div",c,[r(e,{index:2,image:"public\\imges\\content\\3\u5A5A\u793C\u9C9C\u82B1.jpg"})]))}});export{l as default};

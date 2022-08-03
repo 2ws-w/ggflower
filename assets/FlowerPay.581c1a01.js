@@ -1,0 +1,1 @@
+import{_ as o,a as t,b as c,c as s,e as r,h as a}from"./index.8ce81a0f.js";const n={},_={class:"flowerpay"},p=a(" \u9C9C\u82B1\u8BA2\u5355\u652F\u4ED8 ");function d(i,l){const e=t("el-empty");return c(),s("div",_,[p,r(e,{description:"description"})])}var f=o(n,[["render",d]]);export{f as default};
